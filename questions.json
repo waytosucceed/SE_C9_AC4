@@ -1,0 +1,59 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": " Calculate the given expression :<br><img width='70%' src='./assests/images/26.png'><br> If the denominator simplifies to 30, what is the numerator after simplification?",
+      "options": [
+       "510",
+        "210",
+        "1042",
+        "521"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Which of the following fraction is the smallest after solving?",
+      "options": [
+        "./assests/optionImg/117.jpg",
+        "./assests/optionImg/118.jpg",
+        "./assests/optionImg/119.jpg",
+        "./assests/optionImg/120.jpg"
+        
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Choose the correct option after performing the operations on the given modelled fractions.<br><img width='80%' src='./assests/images/1.png'>",
+      "options": [
+        "./assests/optionImg/121.jpg",
+        "./assests/optionImg/122.jpg",
+        "./assests/optionImg/123.jpg",
+        "./assests/optionImg/124.jpg"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q4",
+      "question": " Which of the following is a positive fraction after simplification?",
+      "options": [
+        "./assests/optionImg/125.jpg",
+        "./assests/optionImg/126.jpg",
+        "./assests/optionImg/127.jpg",
+        "./assests/optionImg/128.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q5",
+      "question": "Dividing two fractions that are both like fractions and unit fractions (order doesn’t matter) will always result in which of the following value?",
+      "options": [
+        "1",
+        "The denominator of the fractions",
+        "A proper fraction",
+        "Information is insufficient"
+      ],
+      "correct": 0
+    }
+  ]
+  
